@@ -2983,5 +2983,13 @@
     "android": true,
     "web": true,
     "expo": true
+  },
+  {
+      "githubUrl": "https://github.com/SelfLender/react-native-biometrics",
+      "npmPkg": "https://www.npmjs.com/package/react-native-biometrics",
+      "ios": true,
+      "android": true,
+      "web": false,
+      "expo": false,
   }
 ]
